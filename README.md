@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a cypto portfolio project.
-- 🌱 I’m currently learning full-stack web dev @ lighthouse labs.
-- 👯 I’m looking to explore and collaborate on fun open-source projects.
+- 🔭 currently working on a cypto portfolio project.
+- 🌱 currently learning full-stack web dev @ lighthouse labs.
+- 👯 looking to explore and collaborate on fun open-source projects.
 - ⚡ Fun fact: hitchhiked in the uk!
 
 <!--
