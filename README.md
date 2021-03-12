@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 currently working on a cypto portfolio project.
-🌱 currently learning full-stack web dev @ lighthouse labs.
+- 🔭 currently working on a cypto portfolio project.
+- 🌱 currently learning full-stack web dev @ lighthouse labs.
 
 <!--
 **dantan123/dantan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
