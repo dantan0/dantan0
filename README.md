@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Dan and love coding and tech! Currently
+I'm Dan and 💗 coding and tech! Currently
 
-- 🔭 working on a cypto portfolio project.
-- 🌱 learning full-stack web dev @ lighthouse labs.
+- 🔭 seeking software dev positions
+- 🌱 learning Unity and reviewing concurrency concepts
 - 👯 looking to explore and collaborate on fun open-source projects.
 
 <!--
