@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Dan and 💗 coding and tech! Currently
+I'm Dan and 💗  coding and tech! Currently
 
 - 🔭 seeking software dev positions
 - 🌱 learning Unity and reviewing concurrency concepts
