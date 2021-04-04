@@ -4,7 +4,7 @@ I'm Dan and 💗  coding and tech! Currently
 
 - 🔭 seeking software dev positions
 - 🌱 learning Unity, Redux, and reviewing concurrency concepts
-- 👯 looking to explore and collaborate on fun open-source projects
+- 👯 looking to collaborate on fun open-source projects
 
 <!--
 **dantan123/dantan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
