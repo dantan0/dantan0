@@ -3,7 +3,7 @@
 I'm Dan and 💗  coding and tech! Currently
 
 - 🔭 seeking software dev positions
-- 🌱 learning Unity, Redux, and reviewing concurrency concepts
+- 🌱 learning Redux and deep diving into React
 - 👯 looking to collaborate on fun open-source projects
 
 <!--
