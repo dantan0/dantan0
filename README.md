@@ -4,7 +4,7 @@ I'm Dan and 💗  coding and tech! Currently
 
 - 🔭 seeking software dev positions
 - 🌱 learning Redux and deep diving into React
-- ⚡ Doing some algo challenges
+- ⚡ doing some algo challenges
 - 👯 looking to collaborate on fun open-source projects
 
 <!--
