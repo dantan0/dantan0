@@ -3,8 +3,6 @@
 I'm Dan and 💗  coding and tech! Currently
 
 - 🔭 seeking software and data opportunities
-- 🌱 learning Redux, Docker, and Kubernetes
-- ⚡ doing algo challenges and tech assessments
 - 👯 looking to collaborate on fun open-source projects
 
 <!--
@@ -15,5 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- - 🌱 learning Redux, Docker, and Kubernetes
+- ⚡ doing algo challenges and tech assessments
 - ⚡ Fun fact: hitchhiked in the uk!
 -->
