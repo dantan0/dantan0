@@ -1,4 +1,4 @@
-** "Life is like a box of chocolates ..." **
+*"Life is like a box of chocolates ..."*
 
 ### Hi there 👋
 
