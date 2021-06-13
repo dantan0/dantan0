@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Dan and 💗  coding and tech! Currently,
+I'm Dan and 💗 coding and tech! Currently,
 
 - 🔭 seeking software opportunities
 - 🌱 diving into database systems and exploring Unity!
