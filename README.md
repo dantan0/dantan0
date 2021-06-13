@@ -1,11 +1,11 @@
-"Life is like a box of chocolates ..."
+* "Life is like a box of chocolates ..." *
 
 ### Hi there 👋
 
-I'm Dan and 💗 coding and tech! Currently,
+I'm Dan and 💗  coding and tech! Currently,
 
-- 🔭 seeking software opportunities
-- 🌱 diving into database systems and exploring Unity!
+🔭 seeking software opportunities
+🌱 diving into database systems and exploring Unity!
 
 <!--
 **dantan123/dantan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
