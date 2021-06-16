@@ -4,7 +4,7 @@
 
 I'm Dan and 💗 coding and tech! Currently,
 
-- 🌱 diving into database systems and exploring Unity!
+- 🌱 diving into database systems and exploring computer graphics!
 
 <!--
 **dantan123/dantan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
