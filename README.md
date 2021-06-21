@@ -1,8 +1,6 @@
 *"Life is like a box of chocolates ..."*
 
-### Hi there 👋
-
-I'm Dan!
+### Hi there 👋 I'm Dan!
 
 - 💗 my interests lie in the intersection of math and physics, programming, and entrepreneurship
 - 🌱 currently diving into database systems and exploring computer graphics!
