@@ -2,9 +2,10 @@
 
 ### Hi there 👋
 
-I'm Dan and 💗 coding and tech! Currently,
+I'm Dan!
 
-- 🌱 diving into database systems and exploring computer graphics!
+- 💗 my interests lie in the intersection of math and physics as well as programming
+- 🌱 currently diving into database systems and exploring computer graphics!
 
 <!--
 **dantan123/dantan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
