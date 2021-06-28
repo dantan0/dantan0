@@ -4,7 +4,7 @@
 
 I'm Dan!
 
-- 💗 my interests lie in the intersection of math and physics, software, and entrepreneurship
+- 💗 my interests lie in the intersection of math and physics, software, sustainability, and entrepreneurship
 - 🌱 currently diving into database systems and exploring computer graphics!
 
 <!--
