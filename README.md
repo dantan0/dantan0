@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 
-I'm Dan!
+<!-- I'm Dan! -->
 
 <!-- - 💗 my interests lie in the intersection of math and physics, software, sustainability, and entrepreneurship
 - 🌱 currently diving into database systems and exploring computer graphics! -->
