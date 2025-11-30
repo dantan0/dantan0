@@ -1,5 +1,3 @@
-*"Life is like a box of chocolates ..."*
-
 ### Hi there 👋 
 
 <!-- I'm Dan! -->
